@@ -1,5 +1,8 @@
 # CTF Writeups
 
+## picoCTF
+- [PCAP Analysis Challenge](picoctf-pcap-analysis.md) – Analyzing a poisoned `.pcap` file to extract a hidden flag using Wireshark and CyberChef.
+
 CTF's along the way, learning and using skills i learned through courses online and experimenting.
 
 Recommended by others ( friends ), to keep track of progress and put skills to actual use.
